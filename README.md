@@ -1,7 +1,7 @@
 # Hey, I'm Jesus Castro Gonzalez :)
 
 ## About Me
-I'm finishing up as a Computer Science student at the University of Southern California (USC) with a passion for solving problems and creating positive impact in my community through technology. My journey in computer science has allowed me to collaborate with other young engineers on meaningful projects that are both innovative and practical.
+Welcome to my new Github page as the old one is associated with my school email. I'm finishing up as a Computer Science student at the University of Southern California (USC) with a passion for solving problems and creating positive impact in my community through technology. My journey in computer science has allowed me to collaborate with other young engineers on meaningful projects that are both innovative and practical.
 
 - 🔭 I’m currently working on: To be determined
 - 🌱 I’m currently learning: Machine Learning for Sustainable Devleopment
