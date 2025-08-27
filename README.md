@@ -12,5 +12,5 @@ I'm finishing up as a Computer Science student at the University of Southern Cal
 - ⚡ Fun fact: I went to Camp Flog Gnaw 2024 for free!!! (Shout out to Jake V.)
 
 ## Skills 
-💻 Languages: C, C++, Java, Python, JavaScript, TailwindCSS, HTML, React, etc
-🛠️ Development Environments: Visual Studio Code (primary), IntelliJ Idea (for Java)
+- 💻 Languages: C, C++, Java, Python, JavaScript, TailwindCSS, HTML, React, etc
+- 🛠️ Development Environments: Visual Studio Code (primary), IntelliJ Idea (for Java)
