@@ -6,7 +6,7 @@ Welcome to my new Github page as the old one is associated with my school email.
 - 🔭 I’m currently working on: To be determined
 - 🌱 I’m currently learning: Principles of Functional Programming
 - 👯 I’m looking to collaborate on: Full Stack Web Application Projects
-- 🤔 I’m looking for help with: Machine Learning and building a platform to provide users with machine learning tooks for various uses
+- 🤔 I’m looking for help with: Machine Learning and building a platform to provide users with machine learning tools for various uses
 - 📫 How to reach me: Here is my LinkedIn profile and my email is castrogo@usc.edu 
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I went to Camp Flog Gnaw 2024 for free!!! (Shout out to Jake)
