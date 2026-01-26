@@ -6,7 +6,7 @@ Welcome to my new Github page as the old one is associated with my school email.
 - 🔭 I’m currently working on: To be determined
 - 🌱 I’m currently learning: Principles of Functional Programming
 - 🤝 I’m looking to collaborate on: Full Stack Web Application Projects
-- 📫 How to reach me: Here is my [LinkedIn]([https://www.linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/jesus-castro-gonzalez/))and my email is castrogo@usc.edu 
+- 📫 How to reach me: Here is my [LinkedIn]([https://www.linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/jesus-castro-gonzalez/)) and my email is castrogo@usc.edu 
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I went to Camp Flog Gnaw 2024 for free!!! (Shout out to Jake)
 
